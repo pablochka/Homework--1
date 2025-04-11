@@ -21,3 +21,13 @@ img {
 .facebookClass {
   padding-top: 50px;
 }
+.importantContainer {
+  display: flex;
+  align-items: baseline;
+  gap: 100px;
+}
+.lastDivv {
+  font-size: 25px;
+  text-align: center;
+  padding-top: 70px;
+}
